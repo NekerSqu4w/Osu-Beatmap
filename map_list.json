@@ -1,4 +1,114 @@
 {
+    "1009836 TryHardNinja feat. CaptainSparklez - Revenge": {
+        "metadata": {
+            "title": "Revenge",
+            "titleUnicode": "Revenge",
+            "artist": "TryHardNinja feat. CaptainSparklez",
+            "artistUnicode": "TryHardNinja feat. CaptainSparklez",
+            "creator": "fieryrage",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1009836#mania/2125625"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Foxy's Easy].osu",
+            "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Glaceon's Normal].osu",
+            "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Insane].osu",
+            "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Keitaro's Hard].osu"
+        ]
+    },
+    "1022426 THE ORAL CIGARETTES - Miss Tail": {
+        "metadata": {
+            "title": "Miss Tail",
+            "titleUnicode": "ミステイル",
+            "artist": "THE ORAL CIGARETTES",
+            "artistUnicode": "THE ORAL CIGARETTES",
+            "creator": "iljaaz",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1022426#mania/2139059"
+        },
+        "audio": "audio.mp3",
+        "background": "background.png",
+        "map": [
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Agatsu's Normal].osu",
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Airin's Extra].osu",
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Blackito's Expert].osu",
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Deca's Hard].osu",
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Kowari's Insane].osu",
+            "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Mistake.].osu"
+        ]
+    },
+    "1144382 konore - Kiga to Hougyoku (Game Ver.) [no video]": {
+        "metadata": {
+            "title": "Kiga to Hougyoku (Game Ver.)",
+            "titleUnicode": "飢餓と宝玉 (Game Ver.)",
+            "artist": "konore",
+            "artistUnicode": "konore",
+            "creator": "RK657",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1144382#mania/3204626"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Hard].osu",
+            "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Insane].osu",
+            "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Normal].osu",
+            "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Our Treasure].osu"
+        ]
+    },
+    "1156070 Matsuda Arisa (CV_ Murakawa Rie) - Chou Jou Genki Show_Idol ch@ng!": {
+        "metadata": {
+            "title": "Chou Jou Genki Show*Idol ch@ng!",
+            "titleUnicode": "チョー↑元気Show☆アイドルch@ng!",
+            "artist": "Matsuda Arisa (CV",
+            "artistUnicode": "松田 亜利沙 (CV",
+            "creator": "Seolv",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1156070#mania/2412639"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Hard].osu",
+            "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Insane].osu",
+            "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Normal].osu",
+            "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Special].osu"
+        ]
+    },
+    "134828 Pegboard Nerds - Disconnected": {
+        "metadata": {
+            "title": "Disconnected",
+            "titleUnicode": "Disconnected",
+            "artist": "Pegboard Nerds",
+            "artistUnicode": "Pegboard Nerds",
+            "creator": "Timorisu",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/134828#mania/337998"
+        },
+        "audio": "audio.mp3",
+        "background": "background.png",
+        "map": [
+            "Pegboard Nerds - Disconnected (Timorisu) [Disconnected].osu",
+            "Pegboard Nerds - Disconnected (Timorisu) [Hard].osu",
+            "Pegboard Nerds - Disconnected (Timorisu) [Insane].osu",
+            "Pegboard Nerds - Disconnected (Timorisu) [Minao's Normal].osu"
+        ]
+    },
+    "1890568 goshkins - Help": {
+        "metadata": {
+            "title": "Help",
+            "titleUnicode": "Help",
+            "artist": "goshkins",
+            "artistUnicode": "goshkins",
+            "creator": "Ryxliee",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1890568#mania/3895478"
+        },
+        "audio": "audio.ogg",
+        "background": "background.jpg",
+        "map": [
+            "goshkins - Help (Ryxliee) [Emptiness].osu",
+            "goshkins - Help (Ryxliee) [Futsuu].osu",
+            "goshkins - Help (Ryxliee) [Kantan].osu",
+            "goshkins - Help (Ryxliee) [Muzukashii].osu"
+        ]
+    },
     "1999291 Chroma - lost memory": {
         "metadata": {
             "title": "lost memory",
@@ -44,6 +154,146 @@
         "background": "background.jpg",
         "map": [
             "--RAYvateinn-- - Touhou Medley P - vol.5 (Wither) [Grand Banquet].osu"
+        ]
+    },
+    "303189 Oskar Schuster - Fjarlaegur (Cypix Remix)": {
+        "metadata": {
+            "title": "Fjarlaegur (Cypix Remix)",
+            "titleUnicode": "Fjarlægur (Cypix Remix)",
+            "artist": "Oskar Schuster",
+            "artistUnicode": "Oskar Schuster",
+            "creator": "Shadren",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/303189#mania/680360"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Easy].osu",
+            "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Hard].osu",
+            "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Insane].osu",
+            "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Normal].osu"
+        ]
+    },
+    "375648 S3RL - Bass Slut (Original Mix)": {
+        "metadata": {
+            "title": "Bass Slut (Original Mix)",
+            "titleUnicode": "Bass Slut (Original Mix)",
+            "artist": "S3RL",
+            "artistUnicode": "S3RL",
+            "creator": "Secretpipe",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/375648#mania/827081"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Collab Hard].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Extra].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Fort's Light Insane].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [grumd's Advanced].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Kyshiro's Extra].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Normal].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Rizen's Easy].osu",
+            "S3RL - Bass Slut (Original Mix) (Secretpipe) [Tari's Insane].osu"
+        ]
+    },
+    "409898 Komiya Mao - (can you) understand me": {
+        "metadata": {
+            "title": "(can you) understand me?",
+            "titleUnicode": "(can you) understand me?",
+            "artist": "Komiya Mao",
+            "artistUnicode": "小宮真央",
+            "creator": "Okoratu",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/409898#mania/889668"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "Komiya Mao - (can you) understand me (Okoratu) [collab hard].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [damnae's insane].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [dqs01733's insane].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [easy].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [huh].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [insane].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [normal].osu",
+            "Komiya Mao - (can you) understand me (Okoratu) [smokeman's advanced].osu"
+        ]
+    },
+    "506863 LhoU - Renaissance": {
+        "metadata": {
+            "title": "Renaissance",
+            "titleUnicode": "Renaissance",
+            "artist": "LhoU",
+            "artistUnicode": "LhoU",
+            "creator": "sahuang",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/506863#mania/1078109"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "LhoU - Renaissance (sahuang) [buhei's Renaissance].osu",
+            "LhoU - Renaissance (sahuang) [Hyper].osu",
+            "LhoU - Renaissance (sahuang) [Insane].osu",
+            "LhoU - Renaissance (sahuang) [Mei's Advanced].osu",
+            "LhoU - Renaissance (sahuang) [Normal].osu",
+            "LhoU - Renaissance (sahuang) [Pho's Hard].osu",
+            "LhoU - Renaissance (sahuang) [Saika's Another].osu"
+        ]
+    },
+    "592509 Vanic - Samurai (Spirix Remix)": {
+        "metadata": {
+            "title": "Samurai (Spirix Remix)",
+            "titleUnicode": "Samurai (Spirix Remix)",
+            "artist": "Vanic",
+            "artistUnicode": "Vanic",
+            "creator": "Monstrata",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/592509#mania/1253831"
+        },
+        "audio": "audio.mp3",
+        "background": "background.png",
+        "map": [
+            "Vanic - Samurai (Spirix Remix) (Monstrata) [Easy].osu",
+            "Vanic - Samurai (Spirix Remix) (Monstrata) [Fading].osu",
+            "Vanic - Samurai (Spirix Remix) (Monstrata) [Hard].osu",
+            "Vanic - Samurai (Spirix Remix) (Monstrata) [Normal].osu"
+        ]
+    },
+    "59936 Hanazawa Kana ft. Snoop Dogg - Weed Circulation": {
+        "metadata": {
+            "title": "Weed Circulation",
+            "titleUnicode": "Weed Circulation",
+            "artist": "Hanazawa Kana ft. Snoop Dogg",
+            "artistUnicode": "Hanazawa Kana ft. Snoop Dogg",
+            "creator": "Milkshake",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/59936#mania/180337"
+        },
+        "audio": "audio.mp3",
+        "background": "background.png",
+        "map": [
+            "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [and those roll the best].osu",
+            "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [Just once a week].osu",
+            "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [Smoke weed everyday].osu",
+            "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [Stefan's Never tried].osu",
+            "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [WeedGhost].osu"
+        ]
+    },
+    "914691 S3RL - MTC (Different Heaven Remix)": {
+        "metadata": {
+            "title": "MTC (Different Heaven Remix)",
+            "titleUnicode": "MTC (Different Heaven Remix)",
+            "artist": "S3RL",
+            "artistUnicode": "S3RL",
+            "creator": "Sylas",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/914691#mania/1910434"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Anime Haven].osu",
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Easy].osu",
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Expert].osu",
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Hard].osu",
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Insane].osu",
+            "S3RL - MTC (Different Heaven Remix) (Sylas) [Normal].osu"
         ]
     }
 }
