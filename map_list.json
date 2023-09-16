@@ -14,22 +14,36 @@
             "Chroma - lost memory (CuB-03) [promises of that forgotten day].osu"
         ]
     },
-    "2052537 wotoha - Digital Life Hacker (Cut Ver.)": {
+    "2003683 Crown The Empire - Superstar (feat. Remington Leith)": {
         "metadata": {
-            "title": "Digital Life Hacker (Cut Ver.)",
-            "titleUnicode": "Digital Life Hacker (Cut Ver.)",
-            "artist": "wotoha",
-            "artistUnicode": "をとは",
-            "creator": "fvrex",
-            "beatmapPage": "https://osu.ppy.sh/beatmapsets/2052537#mania/4287108"
+            "title": "Superstar (feat. Remington Leith)",
+            "titleUnicode": "Superstar (feat. Remington Leith)",
+            "artist": "Crown The Empire",
+            "artistUnicode": "Crown The Empire",
+            "creator": "Soraka",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/2003683#mania/4201133"
+        },
+        "audio": "audio.mp3",
+        "background": "background.png",
+        "map": [
+            "Crown The Empire - Superstar (feat. Remington Leith) (Soraka) [AdeAAa's Hard].osu",
+            "Crown The Empire - Superstar (feat. Remington Leith) (Soraka) [Fame].osu",
+            "Crown The Empire - Superstar (feat. Remington Leith) (Soraka) [Normal].osu"
+        ]
+    },
+    "2023965 --RAYvateinn-- - Touhou Medley P - vol.5": {
+        "metadata": {
+            "title": "Touhou Medley P - vol.5",
+            "titleUnicode": "Touhou Medley P - vol.5",
+            "artist": "--RAYvateinn--",
+            "artistUnicode": "ﾚｰｳﾞｧﾃｲﾝ",
+            "creator": "Wither",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/2023965#mania/4215832"
         },
         "audio": "audio.mp3",
         "background": "background.jpg",
         "map": [
-            "wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Easy].osu",
-            "wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Flyburg and Endroll].osu",
-            "wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Hard].osu",
-            "wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Normal].osu"
+            "--RAYvateinn-- - Touhou Medley P - vol.5 (Wither) [Grand Banquet].osu"
         ]
     }
 }
