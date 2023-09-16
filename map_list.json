@@ -1,0 +1,20 @@
+
+{
+    "1999291 Chroma - lost memory/": {
+        "music": "/audio.ogg",
+        "background": "/Lost memory.png",
+        "map": [
+            "/Chroma - lost memory (CuB-03) [promises of that forgotten day].osu"
+        ]
+    },
+    "2052537 wotoha - Digital Life Hacker (Cut Ver.)": {
+        "music": "/audio.ogg",
+        "background": "/49815079_p0.jpg",
+        "map": [
+            "/wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Easy].osu",
+            "/wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Normal].osu",
+            "/wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Hard].osu",
+            "/wotoha - Digital Life Hacker (Cut Ver.) (fvrex) [Flyburg and Endroll].osu"
+        ]
+    }
+}
