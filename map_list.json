@@ -1,6 +1,13 @@
-
 {
     "1999291 Chroma - lost memory": {
+        "metadata": {
+            "title": "lost memory",
+            "titleUnicode": "ロスト・メモリー",
+            "artist": "Chroma",
+            "artistUnicode": "黒魔",
+            "creator": "CuB-03",
+            "beatmapID": 4259014
+        },
         "audio": "audio.ogg",
         "background": "Lost memory.png",
         "map": [
@@ -8,6 +15,14 @@
         ]
     },
     "2052537 wotoha - Digital Life Hacker (Cut Ver.)": {
+        "metadata": {
+            "title": "Digital Life Hacker (Cut Ver.)",
+            "titleUnicode": "Digital Life Hacker (Cut Ver.)",
+            "artist": "wotoha",
+            "artistUnicode": "をとは",
+            "creator": "fvrex",
+            "beatmapID": 4287063
+        },
         "audio": "audio.ogg",
         "background": "49815079_p0.jpg",
         "map": [
