@@ -91,6 +91,38 @@
             "Pegboard Nerds - Disconnected (Timorisu) [Minao's Normal].osu"
         ]
     },
+    "150945 Knife Party - Centipede": {
+        "metadata": {
+            "title": "Centipede",
+            "titleUnicode": "Centipede",
+            "artist": "Knife Party",
+            "artistUnicode": "Knife Party",
+            "creator": "Sugoi-_-Desu",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/150945#mania/372245"
+        },
+        "audio": "audio.mp3",
+        "map": [
+            "Knife Party - Centipede (Sugoi-_-Desu) [This isn't a map, just a simple visualisation].osu"
+        ]
+    },
+    "1713085 quiizzzmeow - seti": {
+        "metadata": {
+            "title": "seti",
+            "titleUnicode": "сети",
+            "artist": "quiizzzmeow",
+            "artistUnicode": "quiizzzmeow",
+            "creator": "netnesanya",
+            "beatmapPage": "https://osu.ppy.sh/beatmapsets/1713085#mania/3651794"
+        },
+        "audio": "audio.mp3",
+        "background": "background.jpg",
+        "map": [
+            "quiizzzmeow - seti (netnesanya) [alden's insane].osu",
+            "quiizzzmeow - seti (netnesanya) [hard].osu",
+            "quiizzzmeow - seti (netnesanya) [i would drown in you].osu",
+            "quiizzzmeow - seti (netnesanya) [maruoko's normal].osu"
+        ]
+    },
     "1890568 goshkins - Help": {
         "metadata": {
             "title": "Help",
