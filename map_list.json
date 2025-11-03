@@ -9,7 +9,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1009836#mania/2125625"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "241220.jpg",
         "map": [
             "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Foxy's Easy].osu",
             "TryHardNinja feat. CaptainSparklez - Revenge (fieryrage) [Glaceon's Normal].osu",
@@ -27,7 +27,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1022426#mania/2139059"
         },
         "audio": "audio.mp3",
-        "background": "background.png",
+        "background": "agatsuiscute.png",
         "map": [
             "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Agatsu's Normal].osu",
             "THE ORAL CIGARETTES - Miss Tail (iljaaz) [Airin's Extra].osu",
@@ -47,7 +47,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1144382#mania/3204626"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "BG.jpg",
         "map": [
             "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Hard].osu",
             "konore - Kiga to Hougyoku (Game Ver.) (RK657) [Insane].osu",
@@ -65,7 +65,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1156070#mania/2412639"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "idols.jpg",
         "map": [
             "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Hard].osu",
             "Matsuda Arisa (CV Murakawa Rie) - Chou Jou Genki ShowIdol ch@ng! (Seolv) [Insane].osu",
@@ -82,8 +82,8 @@
             "creator": "Timorisu",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/134828#mania/337998"
         },
-        "audio": "audio.mp3",
-        "background": "background.png",
+        "audio": "Pegboard Nerds - Disconnected.mp3",
+        "background": "n.png",
         "map": [
             "Pegboard Nerds - Disconnected (Timorisu) [Disconnected].osu",
             "Pegboard Nerds - Disconnected (Timorisu) [Hard].osu",
@@ -100,7 +100,7 @@
             "creator": "Sugoi-_-Desu",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/150945#mania/372245"
         },
-        "audio": "audio.mp3",
+        "audio": "02-knife_party-centipede.mp3",
         "map": [
             "Knife Party - Centipede (Sugoi-_-Desu) [This isn't a map, just a simple visualisation].osu"
         ]
@@ -115,7 +115,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1713085#mania/3651794"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "Konachan.com - 338303 sample.jpg",
         "map": [
             "quiizzzmeow - seti (netnesanya) [alden's insane].osu",
             "quiizzzmeow - seti (netnesanya) [hard].osu",
@@ -133,7 +133,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1890568#mania/3895478"
         },
         "audio": "audio.ogg",
-        "background": "background.jpg",
+        "background": "bg.jpg",
         "map": [
             "goshkins - Help (Ryxliee) [Emptiness].osu",
             "goshkins - Help (Ryxliee) [Futsuu].osu",
@@ -151,7 +151,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/1999291#mania/4259014"
         },
         "audio": "audio.ogg",
-        "background": "background.png",
+        "background": "Lost memory.png",
         "map": [
             "Chroma - lost memory (CuB-03) [promises of that forgotten day].osu"
         ]
@@ -166,7 +166,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/2003683#mania/4201133"
         },
         "audio": "audio.mp3",
-        "background": "background.png",
+        "background": "a32-min.png",
         "map": [
             "Crown The Empire - Superstar (feat. Remington Leith) (Soraka) [AdeAAa's Hard].osu",
             "Crown The Empire - Superstar (feat. Remington Leith) (Soraka) [Fame].osu",
@@ -183,7 +183,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/2023965#mania/4215832"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "whatbgdoievenuse.jpg",
         "map": [
             "--RAYvateinn-- - Touhou Medley P - vol.5 (Wither) [Grand Banquet].osu"
         ]
@@ -197,8 +197,8 @@
             "creator": "Shadren",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/303189#mania/680360"
         },
-        "audio": "audio.mp3",
-        "background": "background.jpg",
+        "audio": "Oskar Schuster - Fjarlaegur (Cypix Remix).mp3",
+        "background": "BG.jpg",
         "map": [
             "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Easy].osu",
             "Oskar Schuster - Fjarlaegur (Cypix Remix) (Shadren) [Hard].osu",
@@ -215,8 +215,8 @@
             "creator": "Secretpipe",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/375648#mania/827081"
         },
-        "audio": "audio.mp3",
-        "background": "background.jpg",
+        "audio": "BS.mp3",
+        "background": "c5739e66e7.jpg",
         "map": [
             "S3RL - Bass Slut (Original Mix) (Secretpipe) [Collab Hard].osu",
             "S3RL - Bass Slut (Original Mix) (Secretpipe) [Extra].osu",
@@ -237,8 +237,8 @@
             "creator": "Okoratu",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/409898#mania/889668"
         },
-        "audio": "audio.mp3",
-        "background": "background.jpg",
+        "audio": "canyouyukaccome.mp3",
+        "background": "ehhhhh.jpg",
         "map": [
             "Komiya Mao - (can you) understand me (Okoratu) [collab hard].osu",
             "Komiya Mao - (can you) understand me (Okoratu) [damnae's insane].osu",
@@ -259,8 +259,8 @@
             "creator": "sahuang",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/506863#mania/1078109"
         },
-        "audio": "audio.mp3",
-        "background": "background.jpg",
+        "audio": "Renaissance.mp3",
+        "background": "Renaissance.jpg",
         "map": [
             "LhoU - Renaissance (sahuang) [buhei's Renaissance].osu",
             "LhoU - Renaissance (sahuang) [Hyper].osu",
@@ -281,7 +281,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/592509#mania/1253831"
         },
         "audio": "audio.mp3",
-        "background": "background.png",
+        "background": "70d5fb35-ff71-4629-c6f5-b6bf79681785.png",
         "map": [
             "Vanic - Samurai (Spirix Remix) (Monstrata) [Easy].osu",
             "Vanic - Samurai (Spirix Remix) (Monstrata) [Fading].osu",
@@ -298,8 +298,8 @@
             "creator": "Milkshake",
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/59936#mania/180337"
         },
-        "audio": "audio.mp3",
-        "background": "background.png",
+        "audio": "Weed Circulation.mp3",
+        "background": "New Canvas.png",
         "map": [
             "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [and those roll the best].osu",
             "Hanazawa Kana ft. Snoop Dogg - Weed Circulation (Milkshake) [Just once a week].osu",
@@ -318,7 +318,7 @@
             "beatmapPage": "https://osu.ppy.sh/beatmapsets/914691#mania/1910434"
         },
         "audio": "audio.mp3",
-        "background": "background.jpg",
+        "background": "vocaloid-hatsune-miku-vokaloid-khatsune-miku-devushka-khvost.jpg",
         "map": [
             "S3RL - MTC (Different Heaven Remix) (Sylas) [Anime Haven].osu",
             "S3RL - MTC (Different Heaven Remix) (Sylas) [Easy].osu",
